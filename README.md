@@ -29,3 +29,7 @@ Valence electrons are in the outer most shell, have the highest energy level and
 And last is 6]  Value.Without a clear strategy and an objective with the value they are getting from big data. 
 It is easy to imagine that organizations will be sidetracked by all these challenges of big data, and not be able to turn them into opportunities.
 So,The idea behind processing all this big data in the first place is to bring value to the problem at hand.
+
+Four major parts that need to be in any strategy. Namely, aim, policy, plan, and action.
+
+Five P's of Data Science

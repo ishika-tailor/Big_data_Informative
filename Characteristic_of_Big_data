@@ -1,7 +1,8 @@
-Major V's in Big Data
-Characteristics of Big Data
+### Major V's in Big Data
 
-Big data is commonly characterised using a number of V's. 
+- Characteristics of Big Data
+
+## Big data is commonly characterised using a number of V's. 
 The first three are volume, velocity, and variety. 
 1] Volume refers to the vast amounts of data that is generated every second,minutes, hour, and day in our world.volume is the dimension of big data related to its size and its exponential growth.
 The challenges with working with volumes of big data include cost, scalability and performance related to their storage, access, and processing.(volume==size)
